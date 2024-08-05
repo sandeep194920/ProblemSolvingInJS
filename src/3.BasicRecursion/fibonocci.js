@@ -68,3 +68,21 @@ const fibRecursive = (n) => {
 };
 
 console.log(fibRecursive(6));
+
+/*
+Dosa - 50
+Idli - 40
+
+Poori - 10
+
+Today's total amount - 90
+
+New amount payable/ New amount  - 10
+
+Overpaid - 0
+Balance - 
+Total Amount - 100
+
+
+
+*/
