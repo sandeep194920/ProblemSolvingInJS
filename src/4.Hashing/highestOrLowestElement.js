@@ -40,7 +40,6 @@ const highestLowest = (arr) => {
       lowest = val;
     }
   }
-
   return [lowFreqEl, highFreqEl];
 };
 
